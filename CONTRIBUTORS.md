@@ -2,16 +2,25 @@
 Shout out to our top contributors!
 
 - [erikaheidi](https://github.com/erikaheidi)
+- [WendellAdriel](https://github.com/WendellAdriel)
+- [JustSteveKing](https://github.com/JustSteveKing)
 - [lotfio](https://github.com/lotfio)
 - [AbdelrhmanSaid](https://github.com/AbdelrhmanSaid)
 - [syntaxseed](https://github.com/syntaxseed)
-- [tombenevides](https://github.com/tombenevides)
-- [alexkart](https://github.com/alexkart)
-- [ScullWM](https://github.com/ScullWM)
+- [devatreides](https://github.com/devatreides)
+- [szepeviktor](https://github.com/szepeviktor)
+- [0xm4ze](https://github.com/0xm4ze)
 - [wandersonwhcr](https://github.com/wandersonwhcr)
+- [tfrommen](https://github.com/tfrommen)
+- [ScullWM](https://github.com/ScullWM)
+- [NickSdot](https://github.com/NickSdot)
+- [barbanet](https://github.com/barbanet)
+- [alexkart](https://github.com/alexkart)
+- [EFabrizioGC](https://github.com/EFabrizioGC)
 - [flug](https://github.com/flug)
 - [MauricioFauth](https://github.com/MauricioFauth)
 - [rodrigoaramburu](https://github.com/rodrigoaramburu)
+- [hopeseekr](https://github.com/hopeseekr)
 - [mrpc](https://github.com/mrpc)
 - [peter279k](https://github.com/peter279k)
 - [theoboldalex](https://github.com/theoboldalex)
@@ -19,4 +28,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Sat, 01 Apr 23 00:41:49 +0000_
+_Last updated: Thu, 01 May 25 00:21:15 +0000_
