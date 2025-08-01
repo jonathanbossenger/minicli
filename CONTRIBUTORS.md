@@ -9,7 +9,7 @@ Shout out to our top contributors!
 - [syntaxseed](https://github.com/syntaxseed)
 - [devatreides](https://github.com/devatreides)
 - [szepeviktor](https://github.com/szepeviktor)
-- [0xm4ze](https://github.com/0xm4ze)
+- [mazesec](https://github.com/mazesec)
 - [wandersonwhcr](https://github.com/wandersonwhcr)
 - [tfrommen](https://github.com/tfrommen)
 - [ScullWM](https://github.com/ScullWM)
@@ -28,4 +28,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Tue, 01 Jul 25 00:10:31 +0000_
+_Last updated: Fri, 01 Aug 25 00:22:44 +0000_
