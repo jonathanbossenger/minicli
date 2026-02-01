@@ -9,14 +9,14 @@ Shout out to our top contributors!
 - [syntaxseed](https://github.com/syntaxseed)
 - [devatreides](https://github.com/devatreides)
 - [szepeviktor](https://github.com/szepeviktor)
-- [tlhsec](https://github.com/tlhsec)
+- [tmhamed](https://github.com/tmhamed)
 - [wandersonwhcr](https://github.com/wandersonwhcr)
 - [tfrommen](https://github.com/tfrommen)
 - [ScullWM](https://github.com/ScullWM)
 - [NickSdot](https://github.com/NickSdot)
 - [barbanet](https://github.com/barbanet)
 - [alexkart](https://github.com/alexkart)
-- [EFabrizioGC](https://github.com/EFabrizioGC)
+- [Nelu-Dev](https://github.com/Nelu-Dev)
 - [flug](https://github.com/flug)
 - [MauricioFauth](https://github.com/MauricioFauth)
 - [rodrigoaramburu](https://github.com/rodrigoaramburu)
@@ -28,4 +28,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Thu, 01 Jan 26 00:07:29 +0000_
+_Last updated: Sun, 01 Feb 26 00:09:33 +0000_
