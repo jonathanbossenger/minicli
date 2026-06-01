@@ -15,7 +15,7 @@ Shout out to our top contributors!
 - [ScullWM](https://github.com/ScullWM)
 - [tfrommen](https://github.com/tfrommen)
 - [wandersonwhcr](https://github.com/wandersonwhcr)
-- [Nelu-Dev](https://github.com/Nelu-Dev)
+- [the-self](https://github.com/the-self)
 - [flug](https://github.com/flug)
 - [MauricioFauth](https://github.com/MauricioFauth)
 - [rodrigoaramburu](https://github.com/rodrigoaramburu)
@@ -27,4 +27,4 @@ Shout out to our top contributors!
 - [zaghadon](https://github.com/zaghadon)
 
 
-_Last updated: Fri, 01 May 26 00:22:51 +0000_
+_Last updated: Mon, 01 Jun 26 00:28:36 +0000_
